@@ -4,13 +4,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ovijit Shinha</h1>
 <h3 align="center">I'm a Frontend Developer from Bangladesh.</h3>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rayhanalshorif">
+  <a href="https://www.linkedin.com/in/ovijit-shinha-4695661a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCP81wR0RSEGJd8eDIgcNFjw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.facebook.com/rayhanalshorif">
+  <a href="https://www.facebook.com/ovijitshinha18/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
