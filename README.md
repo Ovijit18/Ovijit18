@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studing in Daffodil International University, Dhaka, Bangladesh.**
+- 🔭 I’m currently studying at the University of Windsor, Ontario, Canada.**
 
 - 🌱 I’m currently learning and working on React js, jQuery, Vanilla Javascript, Html , CSS , Bootstrap.
 
