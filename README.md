@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ovijit Shinha</h1>
-<h3 align="center">I'm a Frontend Developer from Bangladesh.</h3>
+<h3 align="center">I'm a Frontend Developer from Canada.</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ovijit-shinha-4695661a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
