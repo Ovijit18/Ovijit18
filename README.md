@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ovijit Shinha</h1>
-<h3 align="center">I'm a Frontend Developer from Canada.</h3>
+<h3 align="center">I'm a Web Developer from Canada.</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ovijit-shinha-4695661a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,9 +17,9 @@
 
 - 🔭 I’m currently studying at the University of Windsor, Ontario, Canada.**
 
-- 🌱 I’m currently learning and working on React js, jQuery, Vanilla Javascript, Html , CSS , Bootstrap.
+- 🌱 I’m currently learning and working on React Javascript, jQuery, Vanilla Javascript, HTML, CSS, and Bootstrap.
 
-- 👨‍💻 All of my projects are available here
+- 👨‍💻 All of my projects are available here **https://github.com/Ovijit18**
 
 - 📫 How to reach me **ovijitshinha@gmail.com**
 
@@ -55,7 +55,7 @@
     <a href="https://github.com/Ovijit18/github-readme-stats"><img alt="Ovijit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ovijit18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ovijit18/github-readme-stats"><img alt="Ovijit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovijit18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level Thank You <img src="https://img.icons8.com/office/16/000000/happy--v2.png"/>
+  <b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level Thank You <img src="https://img.icons8.com/office/16/000000/happy--v2.png"/>
 
 
 <br/>
